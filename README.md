@@ -1,7 +1,25 @@
 # Brain.js Start
 
-Machine Learning Using JS
-These are some very basic examples
+## Overview
+
+Machine Learning Using JS. These are some very basic examples
+
+Example models coverd
+
+1. Neural Network
+   Basic neutral net work for deep learning
+
+2. recurrent.LSTM();
+   Also knwn as Linear Regression Training Model
+
+## Getting started
+
+1. Installing dependancies
+   S
+
+```bash
+npm install
+```
 
 ## Adding Examples / Pull Requests
 

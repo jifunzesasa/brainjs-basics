@@ -1,15 +1,20 @@
 {
-  "name": "brainjs_demo",
-  "version": "1.0.0",
+  "name": "brainjs-start",
+  "version": "0.0.1",
   "private": true,
-  "description": "",
-  "main": "index.js",
+  "description": "A simple implementstion of machine learning using Brain.js",
+  "main": "01_basic.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "basic:1": "node 01_basic.js",
+    "basic:2": "node 02_hardware-software.js",
+    "basic:3": "node 03_hardware-software-cached.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "Machine Learning",
+    "Neural Networks"
+  ],
+  "author": "Alpha Olomi",
+  "license": "Apache 2",
   "dependencies": {
     "brain.js": "^1.6.1"
   }
