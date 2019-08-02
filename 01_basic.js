@@ -30,6 +30,7 @@ const team_data = [
 console.table(team_data);
 network.train(team_data);
 
+// todo fix output
 const output = network.run([1, 4]);
 
 console.log(`Prob: ${output}`);

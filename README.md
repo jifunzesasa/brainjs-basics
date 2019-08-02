@@ -15,7 +15,6 @@ Example models coverd
 ## Getting started
 
 1. Installing dependancies
-   S
 
 ```bash
 npm install
